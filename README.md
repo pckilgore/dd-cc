@@ -12,7 +12,7 @@ A custom hook in `model.ts`:
  - wraps a FSM allowing declarative render states in the display logic, and
  - exports a refetch function. 
 
-Filtering is done client side, against by better judgment, but I did not see an 
+Filtering is done client side, against my better judgment, but I did not see an 
 available way to have the backend do it for me when I read the docs. I didn't
 dig; and at work I'd probably just ask someone who handles it to be sure.
 
