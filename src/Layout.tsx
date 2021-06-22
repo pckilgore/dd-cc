@@ -7,7 +7,7 @@ export function PageFrame({ children }: { children: React.ReactNode }) {
       <div className="absolute top-0 right-0 p-px">
         <a
           className="text-xs text-gray-700"
-          href="https://github.com/pckilgore/divvydose-codingchallenge"
+          href="https://github.com/pckilgore/dd-cc"
           referrerPolicy="no-referrer"
         >
           {`Project Code ⎋`}
